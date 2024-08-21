@@ -310,17 +310,17 @@
             "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11140-j96syfuo-v1/imageContent-11140-j96syfuo-m1.png",
             "initialUrl": "https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_389/output/manifest.mpd",
             "genre": "Hindi",
-            "psshSet": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEIRmeh/0y1XhvcZsgOxdUYI4uLWYtgY=",
-            "kid": "84667A1F-F4CB-55E1-BDC6-6C80EC5D5182",
-            "hex": "84667a1ff4cb55e1bdc66c80ec5d5182:97a4e2d154ae192d7b92eb3176e9634d",
-            "licence1": "84667a1ff4cb55e1bdc66c80ec5d5182",
-            "licence2": "97a4e2d154ae192d7b92eb3176e9634d",
+            "psshSet": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSELPcjNbiQlVRiryCxpAHYm44wMOYtgY=",
+            "kid": "B3DC8CD6-E242-5551-8ABC-82C69007626E",
+            "hex": "b3dc8cd6e24255518abc82c69007626e:60a63412f8097c402a4e9508884434f7",
+            "licence1": "b3dc8cd6e24255518abc82c69007626e",
+            "licence2": "60a63412f8097c402a4e9508884434f7",
             "base64": {
                 "keys": [
                     {
                         "kty": "oct",
-                        "k": "l6Ti0VSuGS17kusxduljTQ",
-                        "kid": "hGZ6H/TLVeG9xmyA7F1Rgg"
+                        "k": "YKY0EvgJfEAqTpUIiEQ09w",
+                        "kid": "s9yM1uJCVVGKvILGkAdibg"
                     }
                 ],
                 "type": "temporary"
@@ -666,17 +666,17 @@
             "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-117-j5fl7440-v1/imageContent-117-j5fl7440-m1.png",
             "initialUrl": "https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_303/output/manifest.mpd",
             "genre": "Entertainment",
-            "psshSet": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEHHBbv0Ij1wMr4wWnuI09nY4uLWYtgY=",
-            "kid": "71C16EFD-088F-5C0C-AF8C-169EE234F676",
-            "hex": "71c16efd088f5c0caf8c169ee234f676:0bce15dba68ba35fd7f751ab852fee3e",
-            "licence1": "71c16efd088f5c0caf8c169ee234f676",
-            "licence2": "0bce15dba68ba35fd7f751ab852fee3e",
+            "psshSet": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEHsFC9N02V0kuPIugPMZpkw4wMOYtgY=",
+            "kid": "7B050BD3-74D9-5D24-B8F2-2E80F319A64C",
+            "hex": "7b050bd374d95d24b8f22e80f319a64c:b340f33641b6356a26dab67282769c49",
+            "licence1": "7b050bd374d95d24b8f22e80f319a64c",
+            "licence2": "b340f33641b6356a26dab67282769c49",
             "base64": {
                 "keys": [
                     {
                         "kty": "oct",
-                        "k": "C84V26aLo1/X91GrhS/uPg",
-                        "kid": "ccFu/QiPXAyvjBae4jT2dg"
+                        "k": "s0DzNkG2NWom2rZygnacSQ",
+                        "kid": "ewUL03TZXSS48i6A8xmmTA"
                     }
                 ],
                 "type": "temporary"
@@ -1845,17 +1845,17 @@
             "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-355-j5jndjn4-v1/imageContent-355-j5jndjn4-m2.png",
             "initialUrl": "https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_215/output/manifest.mpd",
             "genre": "Odia",
-            "psshSet": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEMsfZD70PlPRkyUCq8h/AiI45LeYtgY=",
-            "kid": "CB1F643E-F43E-53D1-9325-02ABC87F0222",
-            "hex": "cb1f643ef43e53d1932502abc87f0222:c8a4cb38863dcabed53a6871dc385cae",
-            "licence1": "cb1f643ef43e53d1932502abc87f0222",
-            "licence2": "c8a4cb38863dcabed53a6871dc385cae",
+            "psshSet": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSELmd971Q5FU7vdrn/YgrRHs47MWYtgY=",
+            "kid": "B99DF7BD-50E4-553B-BDDA-E7FD882B447B",
+            "hex": "b99df7bd50e4553bbddae7fd882b447b:4cb4333eb7e92077342913d7ab9f0c92",
+            "licence1": "b99df7bd50e4553bbddae7fd882b447b",
+            "licence2": "4cb4333eb7e92077342913d7ab9f0c92",
             "base64": {
                 "keys": [
                     {
                         "kty": "oct",
-                        "k": "yKTLOIY9yr7VOmhx3Dhcrg",
-                        "kid": "yx9kPvQ+U9GTJQKryH8CIg"
+                        "k": "TLQzPrfpIHc0KRPXq58Mkg",
+                        "kid": "uZ33vVDkVTu92uf9iCtEew"
                     }
                 ],
                 "type": "temporary"
@@ -2219,17 +2219,17 @@
             "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-42020-jxb7qjw8-v1/imageContent-42020-jxb7qjw8-m1.png",
             "initialUrl": "https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_111/output/manifest.mpd",
             "genre": "Lifestyle",
-            "psshSet": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEAc3SQ7AN1KLtmeKMpSj5xM4uLWYtgY=",
-            "kid": "0737490E-C037-528B-B667-8A3294A3E713",
-            "hex": "0737490ec037528bb6678a3294a3e713:901e37aca447cb4d4c472a96b69a5851",
-            "licence1": "0737490ec037528bb6678a3294a3e713",
-            "licence2": "901e37aca447cb4d4c472a96b69a5851",
+            "psshSet": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSELJQ6HzHF1csplL30Z1eXrY4wMOYtgY=",
+            "kid": "B250E87C-C717-572C-A652-F7D19D5E5EB6",
+            "hex": "b250e87cc717572ca652f7d19d5e5eb6:7b6c60e2be1b16ee4c23e75769fec289",
+            "licence1": "b250e87cc717572ca652f7d19d5e5eb6",
+            "licence2": "7b6c60e2be1b16ee4c23e75769fec289",
             "base64": {
                 "keys": [
                     {
                         "kty": "oct",
-                        "k": "kB43rKRHy01MRyqWtppYUQ",
-                        "kid": "BzdJDsA3Uou2Z4oylKPnEw"
+                        "k": "e2xg4r4bFu5MI+dXaf7CiQ",
+                        "kid": "slDofMcXVyymUvfRnV5etg"
                     }
                 ],
                 "type": "temporary"
@@ -2483,17 +2483,17 @@
             "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-537-j5kwkd88-v1/imageContent-537-j5kwkd88-m1.png",
             "initialUrl": "https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_191/output/manifest.mpd",
             "genre": "News",
-            "psshSet": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEKcSW6/YRlEenx+2cdZs2cw4uLWYtgY=",
-            "kid": "A7125BAF-D846-511E-9F1F-B671D66CD9CC",
-            "hex": "a7125bafd846511e9f1fb671d66cd9cc:10472e78db197e65cd6dfe534ede8fda",
-            "licence1": "a7125bafd846511e9f1fb671d66cd9cc",
-            "licence2": "10472e78db197e65cd6dfe534ede8fda",
+            "psshSet": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEITMFML4BVnHvDSbL3Jg8xM4wMOYtgY=",
+            "kid": "84CC14C2-F805-59C7-BC34-9B2F7260F313",
+            "hex": "84cc14c2f80559c7bc349b2f7260f313:41c26fabbd64d59534f4f26ae8ab6c7e",
+            "licence1": "84cc14c2f80559c7bc349b2f7260f313",
+            "licence2": "41c26fabbd64d59534f4f26ae8ab6c7e",
             "base64": {
                 "keys": [
                     {
                         "kty": "oct",
-                        "k": "EEcueNsZfmXNbf5TTt6P2g",
-                        "kid": "pxJbr9hGUR6fH7Zx1mzZzA"
+                        "k": "QcJvq71k1ZU09PJq6Ktsfg",
+                        "kid": "hMwUwvgFWce8NJsvcmDzEw"
                     }
                 ],
                 "type": "temporary"
@@ -6544,17 +6544,17 @@
             "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21152-je6orzfk-v1/imageContent-21152-je6orzfk-m1.png",
             "initialUrl": "https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_665/output/manifest.mpd",
             "genre": "Tamil",
-            "psshSet": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEB9pRs9eWVBLlqNJLDLV0PI4uLWYtgY=",
-            "kid": "1F6946CF-5E59-504B-96A3-492C32D5D0F2",
-            "hex": "1f6946cf5e59504b96a3492c32d5d0f2:1a876669b05d628aafbb8d5b73d2953d",
-            "licence1": "1f6946cf5e59504b96a3492c32d5d0f2",
-            "licence2": "1a876669b05d628aafbb8d5b73d2953d",
+            "psshSet": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEEsIVKx2WlVRhm6N5OWzXzQ4wMOYtgY=",
+            "kid": "4B0854AC-765A-5551-866E-8DE4E5B35F34",
+            "hex": "4b0854ac765a5551866e8de4e5b35f34:287fadaac4d6eef143fb653ffd24ef43",
+            "licence1": "4b0854ac765a5551866e8de4e5b35f34",
+            "licence2": "287fadaac4d6eef143fb653ffd24ef43",
             "base64": {
                 "keys": [
                     {
                         "kty": "oct",
-                        "k": "GodmabBdYoqvu41bc9KVPQ",
-                        "kid": "H2lGz15ZUEuWo0ksMtXQ8g"
+                        "k": "KH+tqsTW7vFD+2U//STvQw",
+                        "kid": "SwhUrHZaVVGGbo3k5bNfNA"
                     }
                 ],
                 "type": "temporary"
@@ -8339,17 +8339,17 @@
             "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12077-j9ob4gm0-v2/imageContent-12077-j9ob4gm0-m2.png",
             "initialUrl": "https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_182/output/manifest.mpd",
             "genre": "Entertainment",
-            "psshSet": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSENXfncqpL1bCktrlbMkPzJY4uLWYtgY=",
-            "kid": "D5DF9DCA-A92F-56C2-92DA-E56CC90FCC96",
-            "hex": "d5df9dcaa92f56c292dae56cc90fcc96:0d92a655040390378a01892405bb05cd",
-            "licence1": "d5df9dcaa92f56c292dae56cc90fcc96",
-            "licence2": "0d92a655040390378a01892405bb05cd",
+            "psshSet": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEKhStVi1f1Heu5bGP123yyo4/MOYtgY=",
+            "kid": "A852B558-B57F-51DE-BB96-C63F5DB7CB2A",
+            "hex": "a852b558b57f51debb96c63f5db7cb2a:44f8c23837f47f845831e4f7a31d7203",
+            "licence1": "a852b558b57f51debb96c63f5db7cb2a",
+            "licence2": "44f8c23837f47f845831e4f7a31d7203",
             "base64": {
                 "keys": [
                     {
                         "kty": "oct",
-                        "k": "DZKmVQQDkDeKAYkkBbsFzQ",
-                        "kid": "1d+dyqkvVsKS2uVsyQ/Mlg"
+                        "k": "RPjCODf0f4RYMeT3ox1yAw",
+                        "kid": "qFK1WLV/Ud67lsY/XbfLKg"
                     }
                 ],
                 "type": "temporary"
@@ -9386,17 +9386,17 @@
             "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-30959-jky1nic8-v2/imageContent-30959-jky1nic8-m3.png",
             "initialUrl": "https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_892/output/manifest.mpd",
             "genre": "Marathi",
-            "psshSet": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEA7bKTn+d1Udo3ybseyKyb84uLWYtgY=",
-            "kid": "0EDB2939-FE77-551D-A37C-9BB1EC8AC9BF",
-            "hex": "0edb2939fe77551da37c9bb1ec8ac9bf:e81a710a9bc162ec40fc036345d6eba1",
-            "licence1": "0edb2939fe77551da37c9bb1ec8ac9bf",
-            "licence2": "e81a710a9bc162ec40fc036345d6eba1",
+            "psshSet": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEIlGnUB0V1RyuyucNVTfCfo4wMOYtgY=",
+            "kid": "89469D40-7457-5472-BB2B-9C3554DF09FA",
+            "hex": "89469d4074575472bb2b9c3554df09fa:119ea9eee40ba1dac43acc0e9efba803",
+            "licence1": "89469d4074575472bb2b9c3554df09fa",
+            "licence2": "119ea9eee40ba1dac43acc0e9efba803",
             "base64": {
                 "keys": [
                     {
                         "kty": "oct",
-                        "k": "6BpxCpvBYuxA/ANjRdbroQ",
-                        "kid": "DtspOf53VR2jfJux7IrJvw"
+                        "k": "EZ6p7uQLodrEOswOnvuoAw",
+                        "kid": "iUadQHRXVHK7K5w1VN8J+g"
                     }
                 ],
                 "type": "temporary"
@@ -9760,7 +9760,7 @@
             "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35599-jrm11j9c-v1/imageContent-35599-jrm11j9c-m1.PNG",
             "initialUrl": "https://vg-republictataplay.akamaized.net/v1/dash/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-791089/index.mpd",
             "genre": "Hindi",
-            "psshSet": "None",
+            "psshSet": null,
             "kid": "null",
             "hex": "",
             "licence1": "",
@@ -9905,17 +9905,17 @@
             "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-42199-jxh2zlj4-v1/imageContent-42199-jxh2zlj4-m1.png",
             "initialUrl": "https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_955/output/manifest.mpd",
             "genre": "Movies",
-            "psshSet": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEAUx2H5c21MltFv8UOz37QQ4uLWYtgY=",
-            "kid": "0531D87E-5CDB-5325-B45B-FC50ECF7ED04",
-            "hex": "0531d87e5cdb5325b45bfc50ecf7ed04:a50d7e138f0d10d8bcff24430c630f0e",
-            "licence1": "0531d87e5cdb5325b45bfc50ecf7ed04",
-            "licence2": "a50d7e138f0d10d8bcff24430c630f0e",
+            "psshSet": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEC/3nOnPX1ZWpc48lsXYWYQ4wMOYtgY=",
+            "kid": "2FF79CE9-CF5F-5656-A5CE-3C96C5D85984",
+            "hex": "2ff79ce9cf5f5656a5ce3c96c5d85984:fcc36153b4767545d4f56effc43a7825",
+            "licence1": "2ff79ce9cf5f5656a5ce3c96c5d85984",
+            "licence2": "fcc36153b4767545d4f56effc43a7825",
             "base64": {
                 "keys": [
                     {
                         "kty": "oct",
-                        "k": "pQ1+E48NENi8/yRDDGMPDg",
-                        "kid": "BTHYflzbUyW0W/xQ7PftBA"
+                        "k": "/MNhU7R2dUXU9W7/xDp4JQ",
+                        "kid": "L/ec6c9fVlalzjyWxdhZhA"
                     }
                 ],
                 "type": "temporary"
@@ -10402,17 +10402,17 @@
             "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49009-k5g6nid4-v1/imageContent-49009-k5g6nid4-m1.png",
             "initialUrl": "https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_988/output/manifest.mpd",
             "genre": "Punjabi",
-            "psshSet": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEOyKouyetlw7v5+Il4aMh2k4uLWYtgY=",
-            "kid": "EC8AA2EC-9EB6-5C3B-BF9F-8897868C8769",
-            "hex": "ec8aa2ec9eb65c3bbf9f8897868c8769:48d96f11b3ea837156af68d872d8667a",
-            "licence1": "ec8aa2ec9eb65c3bbf9f8897868c8769",
-            "licence2": "48d96f11b3ea837156af68d872d8667a",
+            "psshSet": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEH8sW/JC4FPdod114NVvKIA4wMOYtgY=",
+            "kid": "7F2C5BF2-42E0-53DD-A1DD-75E0D56F2880",
+            "hex": "7f2c5bf242e053dda1dd75e0d56f2880:7c2315a7a3de28134b306ef81929451c",
+            "licence1": "7f2c5bf242e053dda1dd75e0d56f2880",
+            "licence2": "7c2315a7a3de28134b306ef81929451c",
             "base64": {
                 "keys": [
                     {
                         "kty": "oct",
-                        "k": "SNlvEbPqg3FWr2jYcthmeg",
-                        "kid": "7Iqi7J62XDu/n4iXhoyHaQ"
+                        "k": "fCMVp6PeKBNLMG74GSlFHA",
+                        "kid": "fyxb8kLgU92h3XXg1W8ogA"
                     }
                 ],
                 "type": "temporary"
@@ -10569,17 +10569,17 @@
             "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52310-k7bd8ixk-v2/imageContent-52310-k7bd8ixk-m4.png",
             "initialUrl": "https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_1000/output/manifest.mpd",
             "genre": "Kannada",
-            "psshSet": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSENgi6za7DlsZmRo2R2EboYU4uLWYtgY=",
-            "kid": "D822EB36-BB0E-5B19-991A-3647611BA185",
-            "hex": "d822eb36bb0e5b19991a3647611ba185:01c5c21f5a0827a092a8b65081f9e41d",
-            "licence1": "d822eb36bb0e5b19991a3647611ba185",
-            "licence2": "01c5c21f5a0827a092a8b65081f9e41d",
+            "psshSet": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEBGjMmMQ+lEsrgZJRVfIoAs4wMOYtgY=",
+            "kid": "11A33263-10FA-512C-AE06-494557C8A00B",
+            "hex": "11a3326310fa512cae06494557c8a00b:8d0a65ccd4883c743df546e6456b869c",
+            "licence1": "11a3326310fa512cae06494557c8a00b",
+            "licence2": "8d0a65ccd4883c743df546e6456b869c",
             "base64": {
                 "keys": [
                     {
                         "kty": "oct",
-                        "k": "AcXCH1oIJ6CSqLZQgfnkHQ",
-                        "kid": "2CLrNrsOWxmZGjZHYRuhhQ"
+                        "k": "jQplzNSIPHQ99UbmRWuGnA",
+                        "kid": "EaMyYxD6USyuBklFV8igCw"
                     }
                 ],
                 "type": "temporary"
@@ -11215,7 +11215,7 @@
             "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-61251-klylf4u0-v2/imageContent-61251-klylf4u0-m9.png",
             "initialUrl": "https://vg-republictataplay.akamaized.net/v1/dash/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-323611/index.mpd",
             "genre": "News",
-            "psshSet": "None",
+            "psshSet": null,
             "kid": "null",
             "hex": "",
             "licence1": "",
